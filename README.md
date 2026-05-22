@@ -1,16 +1,24 @@
-## Hi there 👋
+# Olá, bem-vindo ao GitHub da Ferreira Eletrotech! 👋
 
-<!--
-**Ferreiraeletrotech/Ferreiraeletrotech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Este é o espaço onde documentamos e desenvolvemos soluções técnicas, automações e projetos que unem o universo da informática, da eletrônica e da infraestrutura elétrica. 
 
-Here are some ideas to get you started:
+### 🚀 Nossos Serviços & Especialidades:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Informática e TI:** Manutenção preventiva e corretiva de hardware, montagem de computadores e suporte técnico especializado.
+  
+- **Elétrica Residencial:** Instalações seguras, manutenção de redes elétricas e adequação técnica de circuitos.
+  
+- **Eletrônica & Automação:** Desenvolvimento de soluções sob medida utilizando microcontroladores, automação residencial e reparos eletrônicos.
+
+### ⚙️ Ferramentas e Tecnologias de Trabalho:
+
+- Configuração e administração de sistemas.
+- Programação de placas e circuitos lógicos para automação.
+- Diagnóstico técnico avançado de hardware e redes.
+
+---
+
+📥 **Entre em contato para orçamentos e parcerias:**
+
+- **Instagram:** [@ferreira.eletrotech](https://instagram.com/ferreira.eletrotech)
+- Excelência técnica, segurança e inovação para o seu dia a dia.
